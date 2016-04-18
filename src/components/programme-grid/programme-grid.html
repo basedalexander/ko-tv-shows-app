@@ -1,0 +1,14 @@
+<p> programmer grid components</p>
+
+<ul data-bind="foreach: channels" class="channels">
+    <li class="channel">
+        <img data-bind="attr: { src: src }"/>
+        <ul class='programmes' data-bind="foreach : programmes">
+            <li class="programm">
+                <h5 data-bind="text: title"></h5>
+                <p data-bind="text: startTime"></p>
+                <p data-bind="text: endTime"></p>
+            </li>
+        </ul>
+    </li>
+</ul>

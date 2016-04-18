@@ -1,0 +1,62 @@
+[
+  {
+    "src": "http://lorempixel.com/30/30/",
+    "programmes": [
+      {
+        "title": "Game of thrones",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      },
+      {
+        "title": "Breaking bad",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      },
+      {
+        "title": "Dance with the dead",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      }
+    ]
+  },
+  {
+    "src": "http://lorempixel.com/30/30/",
+    "programmes": [
+      {
+        "title": "Breaking",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      },
+      {
+        "title": "Dancing",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      },
+      {
+        "title": "Whatever",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      }
+    ]
+  },
+  {
+    "src": "http://lorempixel.com/30/30/",
+    "programmes": [
+      {
+        "title": "Something",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      },
+      {
+        "title": "KVN",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      },
+      {
+        "title": "The walking dead",
+        "startTime": "10 AM",
+        "endTime": "20 PM"
+      }
+    ]
+  }
+]

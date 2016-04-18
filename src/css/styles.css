@@ -1,3 +1,8 @@
-#page {
-	margin-top: 80px;
+.channels,
+.programmes {
+    list-style-type: none;
+}
+
+.channel {
+    border: 1px solid black;п
 }
