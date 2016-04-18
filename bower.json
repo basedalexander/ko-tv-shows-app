@@ -1,0 +1,19 @@
+{
+  "name": "tv-shows",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "semantic-ui": "~1",
+    "crossroads": "~0",
+    "hasher": "~1",
+    "requirejs": "~2",
+    "requirejs-text": "~2",
+    "knockout": "~3.3.0-alpha",
+    "knockout-projections": "~1",
+    "knockout.punches": "~0",
+    "knockout-es5": "~0"
+  },
+  "resolutions": {
+    "knockout": "~3.3.0-alpha"
+  }
+}
